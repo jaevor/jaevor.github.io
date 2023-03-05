@@ -1,0 +1,21 @@
+baseURL = "https://jaevor.github.io"
+languageCode = "en-us"
+title = "jaevor"
+theme = "holy"
+# googlefonts = "//fonts.googleapis.com/css?family=Merriweather|Fira+Mono|Droid+Sans"
+
+[markup.highlight]
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineNoStart = 1
+lineNos = true
+lineNumbersInTable = false
+noClasses = true
+tabWidth = 2
+style = "doom-one"
+
+[markup.tableOfContents]
+ordered = false
+endLevel = 3
+startLevel = 2
